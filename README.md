@@ -6,23 +6,23 @@ This repository contains my practice and learning progress on NumPy — the powe
 
 ## ✅ Covered Topics
 
-### 🔹 Array Creation
+### 📘 Array Creation
 - 1D, 2D arrays using `np.array()`
 - `reshape()` and `-1` trick
 - Size mismatch error handling
 
-### 🔹 Indexing & Slicing
+### 📗 Indexing & Slicing
 - Accessing specific elements
 - Row/column slicing in 2D arrays
 - Boolean indexing
 
-### 🔹 Random Number Generation
+### 📙 Random Number Generation
 - `np.random.randint()`
 - `np.random.rand()`, `randn()`
 - `np.random.choice()` (with and without replacement)
 - `np.random.seed()` for reproducible results
 
-### 🔹 Important NumPy Functions
+### 📕 Important NumPy Functions
 - `np.unique()`
 - `np.where()`
 - `np.stack()`, `np.vstack()`, `np.hstack()`
