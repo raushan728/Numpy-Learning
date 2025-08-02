@@ -31,13 +31,6 @@ This repository contains my practice and learning progress on NumPy — the powe
 
 ---
 
-## 🧠 Upcoming Topics
-- Continue NumPy function practice
-- Real-world datasets for EDA
-- Pandas integration with NumPy
-
----
-
 ## 🚀 Tools Used
 - Python 3.x
 - Jupyter Notebook / VS Code
